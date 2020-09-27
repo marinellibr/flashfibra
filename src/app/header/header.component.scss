@@ -69,8 +69,8 @@
                 width: 200px;
         
                 background-color: whitesmoke;
-                color: rgb(30, 30, 160);
-                border-left: 3px solid rgb(30, 30, 160);
+                color: #0a0c7a;
+                border-left: 3px solid #0a0c7a;
                 
                 display: flex;
                 justify-content: center;
@@ -81,12 +81,12 @@
             }
         
             a:hover{
-                background-color: rgb(30, 30, 160);
+                background-color: #0a0c7a;
                 color: white;
             }
             
             a:last-child{
-                border-right: 3px solid rgb(30, 30, 160);
+                border-right: 3px solid #0a0c7a;
             }
         }
     }
